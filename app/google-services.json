@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "783562018759",
+    "project_id": "csse---transport",
+    "storage_bucket": "csse---transport.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783562018759:android:792d231167efd253b653e2",
+        "android_client_info": {
+          "package_name": "com.example.csse_transport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "783562018759-k2741tkam934n3nlr8f2vgacieko855j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAXt3ctDTbBHRWisUh3PNvqnf5zRcaDOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "783562018759-k2741tkam934n3nlr8f2vgacieko855j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
